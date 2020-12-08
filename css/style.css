@@ -66,6 +66,10 @@ header
 	height: 740px;
 	border: none;
 	 max-width: 100%;
+	-webkit-background-style: cover;
+	-moz-background-style: cover;
+	-o-background-size: cover;
+	background-style: cover;
 }
 .top-section-content
 {
