@@ -65,6 +65,7 @@ header
 	background-image: url(../images/ronish.jpg);
 	height: 740px;
 	border: none;
+	 max-width: 100%;
 }
 .top-section-content
 {
