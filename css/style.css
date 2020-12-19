@@ -19,6 +19,17 @@ p
 	{
 		font-size: 0.9em;
 	}
+	.col-2 h1
+	{
+	font-weight: 200;
+	text-align: center;
+	width: 70%;
+	line-height: 1.5em;
+	font-size: 1.5em;
+	color: grey;
+	margin: auto;
+	}
+
 
 } 
 header
