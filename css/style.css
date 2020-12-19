@@ -13,6 +13,14 @@ p
 	line-height: 24px;
 	font-family: "Lato", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
+@media screen and (max-width:768px)
+{
+	.feature-content .col-3 h3
+	{
+		font-size: 0.9em;
+	}
+
+} 
 header
 {
 	background-color: #ffffff;
