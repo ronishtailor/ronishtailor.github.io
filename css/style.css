@@ -29,6 +29,20 @@ p
 	color: grey;
 	margin: auto;
 	}
+	menu li
+	{
+	list-style-type: none;
+	color: #8e8e8e;
+	display: inline;
+	size: .50em;
+
+	}
+	.col-3
+	{
+		float: left;
+		width: 48.5%;
+	}
+	
 
 
 } 
@@ -82,13 +96,10 @@ header
 .top-section-main
 {
 	background-image: url(../images/ronish.jpg);
-	height: 740px;
 	border: none;
-	 max-width: 100%;
-	-webkit-background-style: cover;
-	-moz-background-style: cover;
-	-o-background-size: cover;
-	background-style: cover;
+	width: 100%;
+  	height: auto;
+  	background-size: 100% 100%;
 }
 .top-section-content
 {
