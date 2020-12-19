@@ -43,7 +43,14 @@ p
 		width: 48.5%;
 	}
 	
-
+   .top-section-main
+   {
+	background-image: url(../images/Ronishmob.jpg);
+	border: none;
+	width: 100%;
+  	height: auto;
+  	background-size: 100% 100%;
+   }
 
 } 
 header
