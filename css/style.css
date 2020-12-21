@@ -13,7 +13,7 @@ p
 	line-height: 24px;
 	font-family: "Lato", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
-@media screen and (max-width:768px)
+@media screen and (max-width:480px)
 {
 	.feature-content .col-3 h3
 	{
@@ -46,13 +46,22 @@ p
    .top-section-main
    {
 	background-image: url(../images/Ronishmob.jpg);
-	border: none;
-	width: 100%;
-  	height: auto;
-  	background-size: 100% 100%;
-   }
+    }
 
 } 
+@media (min-width: 481px) and (max-width: 1024px) {
+     .top-section-main
+	{
+        background-image: url(../images/ronishbg.jpg);
+    }
+}
+@media (min-width: 1025px) {
+    .top-section-main
+	{
+	    background-image: url(../images/ronishbg.jpg);
+	}
+}
+
 header
 {
 	background-color: #ffffff;
